@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Vlad Ten</title>
+    <link>https://vladtenlive.github.io/posts/</link>
+    <description>Recent content in Posts on Vlad Ten</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Dec 2022 01:39:26 +0100</lastBuildDate><atom:link href="https://vladtenlive.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2022 Recap</title>
+      <link>https://vladtenlive.github.io/posts/2022-recap/</link>
+      <pubDate>Fri, 02 Dec 2022 01:39:26 +0100</pubDate>
+      
+      <guid>https://vladtenlive.github.io/posts/2022-recap/</guid>
+      <description>The results of the year and a little bit about my future. It&amp;rsquo;s two in the morning and I just finished editing a new YouTube video. An idea popped into my head and boom two hours of recording, two hours of editing and three hours of coloring footage just dissapeared. I happily finished, went to take a smoke break and suddenly I was surprised and asked myself&amp;hellip;
+Why am I doing this?</description>
+    </item>
+    
+  </channel>
+</rss>
